@@ -1,16 +1,12 @@
-# VCCW
+# wordpress-push-redirect
 
-This is a Vagrant configuration designed for development of WordPress plugins, themes, or websites.
+This is a Vagrant configuration demoing push registration on external redirects inspired by (this thread)[https://www.facebook.com/groups/socialmediaPL/1202871846438745/].
 
-To get started, check out <http://vccw.cc/>
+Based on <http://vccw.cc/>
 
 ## Configuration
 
-1. Copy `provision/default.yml` to `site.yml`.
-1. Edit the `site.yml`.
 1. Run `vagrant up`.
+1. Wait for provision to complete.
+1. Browse to `http://vccw.dev/redirect/<some site url>` (ie. `http://vccw.dev/redirect/https://psu.je/`)
 
-### Note
-
-* The `site.yml` has to be in the same directory with Vagrantfile.
-* You can put difference to the `site.yml`.

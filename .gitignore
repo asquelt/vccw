@@ -14,3 +14,4 @@ site.yml
 vendor
 wp-cli.yml
 wordpress
+*~
