@@ -1,6 +1,6 @@
 # wordpress-push-redirect
 
-This is a Vagrant configuration demoing push registration on external redirects inspired by (this thread)[https://www.facebook.com/groups/socialmediaPL/1202871846438745/].
+This is a Vagrant configuration demoing push registration on external redirects inspired by [this thread](https://www.facebook.com/groups/socialmediaPL/1202871846438745/).
 
 Based on <http://vccw.cc/>
 
